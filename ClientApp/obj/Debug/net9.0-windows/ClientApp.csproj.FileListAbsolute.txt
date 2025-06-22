@@ -1,0 +1,16 @@
+C:\Users\Szymon\Desktop\Komputronik_zadanie\ClientApp\bin\Debug\net9.0-windows\ClientApp.exe
+C:\Users\Szymon\Desktop\Komputronik_zadanie\ClientApp\bin\Debug\net9.0-windows\ClientApp.deps.json
+C:\Users\Szymon\Desktop\Komputronik_zadanie\ClientApp\bin\Debug\net9.0-windows\ClientApp.runtimeconfig.json
+C:\Users\Szymon\Desktop\Komputronik_zadanie\ClientApp\bin\Debug\net9.0-windows\ClientApp.dll
+C:\Users\Szymon\Desktop\Komputronik_zadanie\ClientApp\bin\Debug\net9.0-windows\ClientApp.pdb
+C:\Users\Szymon\Desktop\Komputronik_zadanie\ClientApp\obj\Debug\net9.0-windows\ClientApp.Form1.resources
+C:\Users\Szymon\Desktop\Komputronik_zadanie\ClientApp\obj\Debug\net9.0-windows\ClientApp.csproj.GenerateResource.cache
+C:\Users\Szymon\Desktop\Komputronik_zadanie\ClientApp\obj\Debug\net9.0-windows\ClientApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Szymon\Desktop\Komputronik_zadanie\ClientApp\obj\Debug\net9.0-windows\ClientApp.AssemblyInfoInputs.cache
+C:\Users\Szymon\Desktop\Komputronik_zadanie\ClientApp\obj\Debug\net9.0-windows\ClientApp.AssemblyInfo.cs
+C:\Users\Szymon\Desktop\Komputronik_zadanie\ClientApp\obj\Debug\net9.0-windows\ClientApp.csproj.CoreCompileInputs.cache
+C:\Users\Szymon\Desktop\Komputronik_zadanie\ClientApp\obj\Debug\net9.0-windows\ClientApp.dll
+C:\Users\Szymon\Desktop\Komputronik_zadanie\ClientApp\obj\Debug\net9.0-windows\refint\ClientApp.dll
+C:\Users\Szymon\Desktop\Komputronik_zadanie\ClientApp\obj\Debug\net9.0-windows\ClientApp.pdb
+C:\Users\Szymon\Desktop\Komputronik_zadanie\ClientApp\obj\Debug\net9.0-windows\ClientApp.genruntimeconfig.cache
+C:\Users\Szymon\Desktop\Komputronik_zadanie\ClientApp\obj\Debug\net9.0-windows\ref\ClientApp.dll
