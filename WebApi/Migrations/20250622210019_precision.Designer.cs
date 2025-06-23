@@ -10,7 +10,7 @@ using WebApi.Data;
 
 namespace WebApi.Migrations
 {
-    [DbContext(typeof(KomputronikDbContext))]
+    [DbContext(typeof(WarehouseDbContext))]
     [Migration("20250622210019_precision")]
     partial class precision
     {

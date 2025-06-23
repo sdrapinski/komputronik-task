@@ -1,8 +1,8 @@
 [
   {
-    "ContainingType": "WebApi.Controllers.KomputronikController",
+    "ContainingType": "WebApi.Controllers.WarehouseController",
     "Method": "GetCategories",
-    "RelativePath": "api/Komputronik/categories",
+    "RelativePath": "api/Warehouse/categories",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -20,9 +20,9 @@
     ]
   },
   {
-    "ContainingType": "WebApi.Controllers.KomputronikController",
+    "ContainingType": "WebApi.Controllers.WarehouseController",
     "Method": "GetProducts",
-    "RelativePath": "api/Komputronik/products",
+    "RelativePath": "api/Warehouse/products",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -40,9 +40,9 @@
     ]
   },
   {
-    "ContainingType": "WebApi.Controllers.KomputronikController",
+    "ContainingType": "WebApi.Controllers.WarehouseController",
     "Method": "AddProduct",
-    "RelativePath": "api/Komputronik/products",
+    "RelativePath": "api/Warehouse/products",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -66,9 +66,9 @@
     ]
   },
   {
-    "ContainingType": "WebApi.Controllers.KomputronikController",
+    "ContainingType": "WebApi.Controllers.WarehouseController",
     "Method": "GetProduct",
-    "RelativePath": "api/Komputronik/products/{id}",
+    "RelativePath": "api/Warehouse/products/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -92,9 +92,9 @@
     ]
   },
   {
-    "ContainingType": "WebApi.Controllers.KomputronikController",
+    "ContainingType": "WebApi.Controllers.WarehouseController",
     "Method": "UpdateProduct",
-    "RelativePath": "api/Komputronik/products/{id}",
+    "RelativePath": "api/Warehouse/products/{id}",
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
@@ -113,9 +113,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "WebApi.Controllers.KomputronikController",
+    "ContainingType": "WebApi.Controllers.WarehouseController",
     "Method": "DeleteProduct",
-    "RelativePath": "api/Komputronik/products/{id}",
+    "RelativePath": "api/Warehouse/products/{id}",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,

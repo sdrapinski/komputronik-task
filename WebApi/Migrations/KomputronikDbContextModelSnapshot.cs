@@ -9,7 +9,7 @@ using WebApi.Data;
 
 namespace WebApi.Migrations
 {
-    [DbContext(typeof(KomputronikDbContext))]
+    [DbContext(typeof(WarehouseDbContext))]
     partial class KomputronikDbContextModelSnapshot : ModelSnapshot
     {
         protected override void BuildModel(ModelBuilder modelBuilder)

@@ -165,3 +165,4 @@ C:\Users\Szymon\Desktop\Komputronik_zadanie\WebApi\obj\Debug\net9.0\refint\WebAp
 C:\Users\Szymon\Desktop\Komputronik_zadanie\WebApi\obj\Debug\net9.0\WebApi.pdb
 C:\Users\Szymon\Desktop\Komputronik_zadanie\WebApi\obj\Debug\net9.0\WebApi.genruntimeconfig.cache
 C:\Users\Szymon\Desktop\Komputronik_zadanie\WebApi\obj\Debug\net9.0\ref\WebApi.dll
+C:\Users\Szymon\Desktop\Komputronik_zadanie\WebApi\obj\Debug\net9.0\WebApi.sourcelink.json
