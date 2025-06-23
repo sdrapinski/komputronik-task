@@ -3,36 +3,13 @@
   "WorkspaceRootPath": "C:\\Users\\Szymon\\Desktop\\Komputronik_zadanie\\WebApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5A1448E1-97F3-4474-8592-B2C5B1700B49}|WebApi.csproj|c:\\users\\szymon\\desktop\\komputronik_zadanie\\webapi\\controllers\\warehousecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A1448E1-97F3-4474-8592-B2C5B1700B49}|WebApi.csproj|solutionrelative:controllers\\warehousecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B832782D-0EEE-4FE9-B4C8-C917CFA31F6C}|..\\ClientApp\\ClientApp.csproj|c:\\users\\szymon\\desktop\\komputronik_zadanie\\clientapp\\services\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A1448E1-97F3-4474-8592-B2C5B1700B49}|WebApi.csproj|c:\\users\\szymon\\desktop\\komputronik_zadanie\\webapi\\data\\warehousedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A1448E1-97F3-4474-8592-B2C5B1700B49}|WebApi.csproj|solutionrelative:data\\warehousedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B832782D-0EEE-4FE9-B4C8-C917CFA31F6C}|..\\ClientApp\\ClientApp.csproj|c:\\users\\szymon\\desktop\\komputronik_zadanie\\clientapp\\models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A1448E1-97F3-4474-8592-B2C5B1700B49}|WebApi.csproj|c:\\users\\szymon\\desktop\\komputronik_zadanie\\webapi\\models\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A1448E1-97F3-4474-8592-B2C5B1700B49}|WebApi.csproj|solutionrelative:models\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A1448E1-97F3-4474-8592-B2C5B1700B49}|WebApi.csproj|c:\\users\\szymon\\desktop\\komputronik_zadanie\\webapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A1448E1-97F3-4474-8592-B2C5B1700B49}|WebApi.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A1448E1-97F3-4474-8592-B2C5B1700B49}|WebApi.csproj|c:\\users\\szymon\\desktop\\komputronik_zadanie\\webapi\\models\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A1448E1-97F3-4474-8592-B2C5B1700B49}|WebApi.csproj|solutionrelative:models\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A1448E1-97F3-4474-8592-B2C5B1700B49}|WebApi.csproj|c:\\users\\szymon\\desktop\\komputronik_zadanie\\webapi\\models\\dto\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A1448E1-97F3-4474-8592-B2C5B1700B49}|WebApi.csproj|solutionrelative:models\\dto\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A1448E1-97F3-4474-8592-B2C5B1700B49}|WebApi.csproj|c:\\users\\szymon\\desktop\\komputronik_zadanie\\webapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A1448E1-97F3-4474-8592-B2C5B1700B49}|WebApi.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A1448E1-97F3-4474-8592-B2C5B1700B49}|WebApi.csproj|c:\\users\\szymon\\desktop\\komputronik_zadanie\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5A1448E1-97F3-4474-8592-B2C5B1700B49}|WebApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{B832782D-0EEE-4FE9-B4C8-C917CFA31F6C}|..\\ClientApp\\ClientApp.csproj|c:\\users\\szymon\\desktop\\komputronik_zadanie\\clientapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,115 +19,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\Szymon\\Desktop\\Komputronik_zadanie\\ClientApp\\Models\\ProductDto.cs",
+              "RelativeDocumentMoniker": "..\\ClientApp\\Models\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\Szymon\\Desktop\\Komputronik_zadanie\\ClientApp\\Models\\ProductDto.cs",
+              "RelativeToolTip": "..\\ClientApp\\Models\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T23:09:56.078Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CategoryDto.cs",
-              "DocumentMoniker": "C:\\Users\\Szymon\\Desktop\\Komputronik_zadanie\\WebApi\\Models\\DTO\\CategoryDto.cs",
-              "RelativeDocumentMoniker": "Models\\DTO\\CategoryDto.cs",
-              "ToolTip": "C:\\Users\\Szymon\\Desktop\\Komputronik_zadanie\\WebApi\\Models\\DTO\\CategoryDto.cs",
-              "RelativeToolTip": "Models\\DTO\\CategoryDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\Szymon\\Desktop\\Komputronik_zadanie\\ClientApp\\Services\\ApiClient.cs",
+              "RelativeDocumentMoniker": "..\\ClientApp\\Services\\ApiClient.cs",
+              "ToolTip": "C:\\Users\\Szymon\\Desktop\\Komputronik_zadanie\\ClientApp\\Services\\ApiClient.cs",
+              "RelativeToolTip": "..\\ClientApp\\Services\\ApiClient.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA5wDIAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T20:58:44.435Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CreateProductDto.cs",
-              "DocumentMoniker": "C:\\Users\\Szymon\\Desktop\\Komputronik_zadanie\\WebApi\\Models\\DTO\\CreateProductDto.cs",
-              "RelativeDocumentMoniker": "Models\\DTO\\CreateProductDto.cs",
-              "ToolTip": "C:\\Users\\Szymon\\Desktop\\Komputronik_zadanie\\WebApi\\Models\\DTO\\CreateProductDto.cs",
-              "RelativeToolTip": "Models\\DTO\\CreateProductDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T20:58:42.801Z",
+              "WhenOpened": "2025-06-23T22:59:37.306Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ProductDto.cs",
-              "DocumentMoniker": "C:\\Users\\Szymon\\Desktop\\Komputronik_zadanie\\WebApi\\Models\\DTO\\ProductDto.cs",
-              "RelativeDocumentMoniker": "Models\\DTO\\ProductDto.cs",
-              "ToolTip": "C:\\Users\\Szymon\\Desktop\\Komputronik_zadanie\\WebApi\\Models\\DTO\\ProductDto.cs",
-              "RelativeToolTip": "Models\\DTO\\ProductDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Title": "Form1.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\Szymon\\Desktop\\Komputronik_zadanie\\ClientApp\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\ClientApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\Szymon\\Desktop\\Komputronik_zadanie\\ClientApp\\Form1.cs [Projekt]",
+              "RelativeToolTip": "..\\ClientApp\\Form1.cs [Projekt]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T20:57:48.256Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\Szymon\\Desktop\\Komputronik_zadanie\\WebApi\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "Models\\Category.cs",
-              "ToolTip": "C:\\Users\\Szymon\\Desktop\\Komputronik_zadanie\\WebApi\\Models\\Category.cs",
-              "RelativeToolTip": "Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T20:58:38.482Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WarehouseDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Szymon\\Desktop\\Komputronik_zadanie\\WebApi\\Data\\WarehouseDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\WarehouseDbContext.cs",
-              "ToolTip": "C:\\Users\\Szymon\\Desktop\\Komputronik_zadanie\\WebApi\\Data\\WarehouseDbContext.cs",
-              "RelativeToolTip": "Data\\WarehouseDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T20:53:36.008Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Szymon\\Desktop\\Komputronik_zadanie\\WebApi\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Szymon\\Desktop\\Komputronik_zadanie\\WebApi\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-23T20:49:17.436Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Szymon\\Desktop\\Komputronik_zadanie\\WebApi\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Models\\Product.cs",
-              "ToolTip": "C:\\Users\\Szymon\\Desktop\\Komputronik_zadanie\\WebApi\\Models\\Product.cs",
-              "RelativeToolTip": "Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T20:09:17.491Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "WarehouseController.cs",
-              "DocumentMoniker": "C:\\Users\\Szymon\\Desktop\\Komputronik_zadanie\\WebApi\\Controllers\\WarehouseController.cs",
-              "RelativeDocumentMoniker": "Controllers\\WarehouseController.cs",
-              "ToolTip": "C:\\Users\\Szymon\\Desktop\\Komputronik_zadanie\\WebApi\\Controllers\\WarehouseController.cs",
-              "RelativeToolTip": "Controllers\\WarehouseController.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAgwAgAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T22:00:30.502Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-23T22:46:05.609Z",
+              "EditorCaption": " [Projekt]"
             }
           ]
         }
