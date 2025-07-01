@@ -1,0 +1,32 @@
+[
+  {
+    "Name": "Both Projects",
+    "Projects": [
+      {
+        "Path": "..\\ClientApp\\ClientApp.csproj",
+        "Action": "StartWithoutDebugging",
+        "DebugTarget": "ClientApp"
+      },
+      {
+        "Path": "WebApi.csproj",
+        "Action": "Start",
+        "DebugTarget": "https"
+      }
+    ]
+  },
+  {
+    "Name": "Nowy Profil",
+    "Projects": [
+      {
+        "Path": "WebApi.csproj",
+        "Action": "Start",
+        "DebugTarget": "https"
+      },
+      {
+        "Path": "..\\ClientApp\\ClientApp.csproj",
+        "Action": "Start",
+        "DebugTarget": "ClientApp"
+      }
+    ]
+  }
+]
