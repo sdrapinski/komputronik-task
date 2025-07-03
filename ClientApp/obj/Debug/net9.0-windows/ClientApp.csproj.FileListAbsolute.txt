@@ -21,3 +21,4 @@ C:\Users\Szymon\Desktop\Komputronik_zadanie\ClientApp\obj\Debug\net9.0-windows\C
 C:\Users\Szymon\Desktop\Komputronik_zadanie\ClientApp\obj\Debug\net9.0-windows\ClientApp.csproj.Up2Date
 C:\Users\Szymon\Desktop\Komputronik_zadanie\ClientApp\obj\Debug\net9.0-windows\ClientApp.AddProductForm.resources
 C:\Users\Szymon\Desktop\Komputronik_zadanie\ClientApp\obj\Debug\net9.0-windows\ClientApp.EditProductForm.resources
+C:\Users\Szymon\Desktop\Komputronik_zadanie\ClientApp\bin\Debug\net9.0-windows\CsvHelper.dll

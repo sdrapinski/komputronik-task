@@ -4,12 +4,17 @@ using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Globalization;
+using CsvHelper;
+using System.IO;
+using System.Text;
 
 namespace ClientApp
 {
     public partial class Form1 : Form
     {
         private readonly ApiClient _apiClient = new();
+        private List<ProductDto> _products = new();
 
         public Form1()
         {
@@ -27,6 +32,7 @@ namespace ClientApp
             try
             {
                 var products = await _apiClient.GetProductsAsync();
+                _products = products;
                 ProductsDataGrid.DataSource = products;
                 
 
@@ -112,7 +118,36 @@ namespace ClientApp
 
         private void Export_Products(object sender, EventArgs e)
         {
+            if (_products == null || !_products.Any())
+            {
+                MessageBox.Show("No data to export.");
+                return;
+            }
 
+            using (SaveFileDialog saveFileDialog = new SaveFileDialog())
+            {
+                saveFileDialog.Filter = "CSV file (*.csv)|*.csv";
+                saveFileDialog.Title = "Save CSV file";
+                saveFileDialog.FileName = "products.csv";
+
+                if (saveFileDialog.ShowDialog() == DialogResult.OK)
+                {
+                    try
+                    {
+                        using (var writer = new StreamWriter(saveFileDialog.FileName, false, new UTF8Encoding(true)))
+                        using (var csv = new CsvWriter(writer, CultureInfo.InvariantCulture))
+                        {
+                            csv.WriteRecords(_products);
+                        }
+
+                        MessageBox.Show("Export completed successfully!");
+                    }
+                    catch (Exception ex)
+                    {
+                        MessageBox.Show("Export error: " + ex.Message);
+                    }
+                }
+            }
         }
     }
 }

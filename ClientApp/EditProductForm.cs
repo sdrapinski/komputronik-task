@@ -23,6 +23,9 @@ namespace ClientApp
             InitializeComponent();
             _apiClient = apiClient;
             _product = product;
+            this.Load += Load_categories;
+
+
             ProductCode_textBox.Text = product.Code;
             ProductCategory_Box.Text = product.CategoryName;
             ProductCategory_Box.SelectedValue = product.Category_Id;
@@ -32,13 +35,28 @@ namespace ClientApp
 
         }
 
+        private async void Load_categories(object sender, EventArgs e)
+        {
+            try
+            {
+                var categories = await _apiClient.GetCategoriesAsync();
+                ProductCategory_Box.DataSource = categories;
+                ProductCategory_Box.DisplayMember = "Name";
+                ProductCategory_Box.ValueMember = "Id";
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Fetching categories failed: " + ex.Message);
+            }
+        }
+
         private async void Edit_product(object sender, EventArgs e)
         {
             _product.Name = ProductName_textBox.Text.Trim();
             _product.Code = ProductCode_textBox.Text.Trim();
             _product.Price = ProductPrice_box.Value;
             _product.Description = ProductDescription_Textbox.Text.Trim();
-            _product.Category_Id = (long)ProductCategory_Box.SelectedValue !=null ? (long)ProductCategory_Box.SelectedValue: _product.Category_Id;
+            _product.Category_Id = ProductCategory_Box.SelectedValue !=null ? (long)ProductCategory_Box.SelectedValue: _product.Category_Id;
             try
             {
                 // Wywołanie API do aktualizacji produktu
