@@ -3,10 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Szymon\\Desktop\\Komputronik_zadanie\\WebApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B832782D-0EEE-4FE9-B4C8-C917CFA31F6C}|..\\ClientApp\\ClientApp.csproj|c:\\users\\szymon\\desktop\\komputronik_zadanie\\clientapp\\addproductform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{B832782D-0EEE-4FE9-B4C8-C917CFA31F6C}|..\\ClientApp\\ClientApp.csproj|c:\\users\\szymon\\desktop\\komputronik_zadanie\\clientapp\\editproductform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B832782D-0EEE-4FE9-B4C8-C917CFA31F6C}|..\\ClientApp\\ClientApp.csproj|c:\\users\\szymon\\desktop\\komputronik_zadanie\\clientapp\\addproductform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B832782D-0EEE-4FE9-B4C8-C917CFA31F6C}|..\\ClientApp\\ClientApp.csproj|c:\\users\\szymon\\desktop\\komputronik_zadanie\\clientapp\\editproductform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B832782D-0EEE-4FE9-B4C8-C917CFA31F6C}|..\\ClientApp\\ClientApp.csproj|c:\\users\\szymon\\desktop\\komputronik_zadanie\\clientapp\\models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -15,13 +15,10 @@
       "AbsoluteMoniker": "D:0:0:{B832782D-0EEE-4FE9-B4C8-C917CFA31F6C}|..\\ClientApp\\ClientApp.csproj|c:\\users\\szymon\\desktop\\komputronik_zadanie\\clientapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B832782D-0EEE-4FE9-B4C8-C917CFA31F6C}|..\\ClientApp\\ClientApp.csproj|c:\\users\\szymon\\desktop\\komputronik_zadanie\\clientapp\\addproductform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B832782D-0EEE-4FE9-B4C8-C917CFA31F6C}|..\\ClientApp\\ClientApp.csproj|c:\\users\\szymon\\desktop\\komputronik_zadanie\\clientapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B832782D-0EEE-4FE9-B4C8-C917CFA31F6C}|..\\ClientApp\\ClientApp.csproj|c:\\users\\szymon\\desktop\\komputronik_zadanie\\clientapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B832782D-0EEE-4FE9-B4C8-C917CFA31F6C}|..\\ClientApp\\ClientApp.csproj|c:\\users\\szymon\\desktop\\komputronik_zadanie\\clientapp\\services\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,36 +28,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AddProductForm.cs [Projekt]",
-              "DocumentMoniker": "C:\\Users\\Szymon\\Desktop\\Komputronik_zadanie\\ClientApp\\AddProductForm.cs",
-              "RelativeDocumentMoniker": "..\\ClientApp\\AddProductForm.cs",
-              "ToolTip": "C:\\Users\\Szymon\\Desktop\\Komputronik_zadanie\\ClientApp\\AddProductForm.cs [Projekt]",
-              "RelativeToolTip": "..\\ClientApp\\AddProductForm.cs [Projekt]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T21:07:12.039Z",
-              "EditorCaption": " [Projekt]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AddProductForm.cs",
-              "DocumentMoniker": "C:\\Users\\Szymon\\Desktop\\Komputronik_zadanie\\ClientApp\\AddProductForm.cs",
-              "RelativeDocumentMoniker": "..\\ClientApp\\AddProductForm.cs",
-              "ToolTip": "C:\\Users\\Szymon\\Desktop\\Komputronik_zadanie\\ClientApp\\AddProductForm.cs",
-              "RelativeToolTip": "..\\ClientApp\\AddProductForm.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAASwBUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T20:57:10.432Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -70,9 +42,22 @@
               "RelativeDocumentMoniker": "..\\ClientApp\\Models\\ProductDto.cs",
               "ToolTip": "C:\\Users\\Szymon\\Desktop\\Komputronik_zadanie\\ClientApp\\Models\\ProductDto.cs",
               "RelativeToolTip": "..\\ClientApp\\Models\\ProductDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T20:52:58.44Z",
+              "WhenOpened": "2025-07-02T23:53:43.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EditProductForm.cs",
+              "DocumentMoniker": "C:\\Users\\Szymon\\Desktop\\Komputronik_zadanie\\ClientApp\\EditProductForm.cs",
+              "RelativeDocumentMoniker": "..\\ClientApp\\EditProductForm.cs",
+              "ToolTip": "C:\\Users\\Szymon\\Desktop\\Komputronik_zadanie\\ClientApp\\EditProductForm.cs",
+              "RelativeToolTip": "..\\ClientApp\\EditProductForm.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwCUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T22:18:39.361Z",
               "EditorCaption": ""
             },
             {
@@ -84,46 +69,45 @@
               "ToolTip": "C:\\Users\\Szymon\\Desktop\\Komputronik_zadanie\\ClientApp\\Form1.cs [Projekt]",
               "RelativeToolTip": "..\\ClientApp\\Form1.cs [Projekt]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T20:22:52.218Z",
+              "WhenOpened": "2025-07-02T23:44:14.334Z",
               "EditorCaption": " [Projekt]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Szymon\\Desktop\\Komputronik_zadanie\\ClientApp\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "..\\ClientApp\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\Szymon\\Desktop\\Komputronik_zadanie\\ClientApp\\Form1.Designer.cs",
-              "RelativeToolTip": "..\\ClientApp\\Form1.Designer.cs",
-              "ViewState": "AgIAAFAAAAAAAAAAAIAwwGoAAAA1AAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "EditProductForm.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\Szymon\\Desktop\\Komputronik_zadanie\\ClientApp\\EditProductForm.cs",
+              "RelativeDocumentMoniker": "..\\ClientApp\\EditProductForm.cs",
+              "ToolTip": "C:\\Users\\Szymon\\Desktop\\Komputronik_zadanie\\ClientApp\\EditProductForm.cs [Projekt]",
+              "RelativeToolTip": "..\\ClientApp\\EditProductForm.cs [Projekt]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T19:33:03.467Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-02T23:43:20.983Z",
+              "EditorCaption": " [Projekt]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "AddProductForm.cs",
+              "DocumentMoniker": "C:\\Users\\Szymon\\Desktop\\Komputronik_zadanie\\ClientApp\\AddProductForm.cs",
+              "RelativeDocumentMoniker": "..\\ClientApp\\AddProductForm.cs",
+              "ToolTip": "C:\\Users\\Szymon\\Desktop\\Komputronik_zadanie\\ClientApp\\AddProductForm.cs",
+              "RelativeToolTip": "..\\ClientApp\\AddProductForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T20:57:10.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Szymon\\Desktop\\Komputronik_zadanie\\ClientApp\\Form1.cs",
               "RelativeDocumentMoniker": "..\\ClientApp\\Form1.cs",
               "ToolTip": "C:\\Users\\Szymon\\Desktop\\Komputronik_zadanie\\ClientApp\\Form1.cs",
               "RelativeToolTip": "..\\ClientApp\\Form1.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAjwDkAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAADgvxwAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T19:32:05.957Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ApiClient.cs",
-              "DocumentMoniker": "C:\\Users\\Szymon\\Desktop\\Komputronik_zadanie\\ClientApp\\Services\\ApiClient.cs",
-              "RelativeDocumentMoniker": "..\\ClientApp\\Services\\ApiClient.cs",
-              "ToolTip": "C:\\Users\\Szymon\\Desktop\\Komputronik_zadanie\\ClientApp\\Services\\ApiClient.cs",
-              "RelativeToolTip": "..\\ClientApp\\Services\\ApiClient.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAIAwwBgAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T22:59:37.306Z",
+              "WhenOpened": "2025-07-02T21:57:09.95Z",
               "EditorCaption": ""
             }
           ]

@@ -36,7 +36,7 @@ namespace WebApi.Controllers
             return Ok(products);
         }
         [HttpGet("products/{id}")]
-        public async Task<ActionResult<ProductDto>> GetProduct(int id)
+        public async Task<ActionResult<ProductDto>> GetProduct(long id)
         {
             var product = await _context.Product.Include(p => p.Category).FirstOrDefaultAsync(p => p.Id == id);
             if (product == null)
@@ -101,7 +101,7 @@ namespace WebApi.Controllers
         //Put
 
         [HttpPut("products/{id}")]
-        public async Task<IActionResult> UpdateProduct(int id, CreateProductDto dto)
+        public async Task<IActionResult> UpdateProduct(long id, CreateProductDto dto)
         {
             var product = await _context.Product.FindAsync(id);
             if (product == null)
@@ -121,7 +121,7 @@ namespace WebApi.Controllers
         //Delete
 
         [HttpDelete("products/{id}")]
-        public async Task<IActionResult> DeleteProduct(int id)
+        public async Task<IActionResult> DeleteProduct(long id)
         {
             var product = await _context.Product.FindAsync(id);
             if (product == null)
